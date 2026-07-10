@@ -1,0 +1,4 @@
+node_modules/
+ab-captures/
+.DS_Store
+*.swp
